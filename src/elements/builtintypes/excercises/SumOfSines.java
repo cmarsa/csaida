@@ -1,4 +1,4 @@
-package elements.excercises;
+package elements.builtintypes.excercises;
 
 public class SumOfSines {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package elements.excercises;
-
-import java.nio.DoubleBuffer;
+package elements.builtintypes.excercises;
 
 public class HorizontalDisplacement {
     public static void main(String[] args) {

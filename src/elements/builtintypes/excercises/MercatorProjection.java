@@ -1,4 +1,4 @@
-package elements.excercises;
+package elements.builtintypes.excercises;
 /**
  * The Mercator Projection is a conformal (angle preserving)
  * projection that maps latitude phi and longitude lambda to

@@ -1,4 +1,4 @@
-package elements.quadratic;
+package elements.builtintypes.quadratic;
 
 public class Quadratic {
     public static void main(String[] args) {

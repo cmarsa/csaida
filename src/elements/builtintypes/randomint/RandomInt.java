@@ -1,4 +1,4 @@
-package elements.randomint;
+package elements.builtintypes.randomint;
 
 public class RandomInt {
     public static void main(String[] args) {

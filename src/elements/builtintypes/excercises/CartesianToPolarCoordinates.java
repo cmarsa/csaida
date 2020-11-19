@@ -1,6 +1,4 @@
-package elements.excercises;
-
-import java.util.function.DoubleBinaryOperator;
+package elements.builtintypes.excercises;
 
 public class CartesianToPolarCoordinates {
     public static void main(String[] args) {

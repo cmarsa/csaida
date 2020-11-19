@@ -1,4 +1,4 @@
-package elements.howareyou;
+package elements.builtintypes.howareyou;
 
 public class HowAreYou {
     public static void main(String[] args) {

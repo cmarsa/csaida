@@ -1,4 +1,4 @@
-package elements.leapyear;
+package elements.builtintypes.leapyear;
 
 public class LeapYear {
     public static void main(String[] args) {

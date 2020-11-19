@@ -1,4 +1,4 @@
-package elements.integeroperations;
+package elements.builtintypes.integeroperations;
 
 public class IntOps {
     public static void main(String[] args) {

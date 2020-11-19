@@ -1,4 +1,4 @@
-package elements.helloworld;
+package elements.builtintypes.helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {

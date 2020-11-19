@@ -1,4 +1,4 @@
-package elements.ruler;
+package elements.builtintypes.ruler;
 
 public class Ruler {
     public static void main(String[] args) {
