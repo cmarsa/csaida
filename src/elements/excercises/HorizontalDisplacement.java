@@ -5,7 +5,7 @@ import java.nio.DoubleBuffer;
 public class HorizontalDisplacement {
     public static void main(String[] args) {
         if (args.length < 3) {
-            System.out.println("Please provide params\nx_o [m], v_o[m/s] and t[s].");
+            System.out.println("Please provide params\nx_o[m], v_o[m/s] and t[s].");
             return;
         }
         System.out.println(args.length);
