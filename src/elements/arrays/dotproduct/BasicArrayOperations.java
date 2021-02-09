@@ -57,6 +57,17 @@ public class BasicArrayOperations {
         for (int i = 0; i < n; i++)
             System.out.println(x[i]);
 
+        // shuffle array
+        for (int i = 0; i < n; i++) {
+            int r = i + (int) (Math.random() * (n-i));
+            double temp = x[i];
+            x[i] = x[r];
+            x[r] = temp;
+        }
+        System.out.println("shuffled x: ");
+        for (int i = 0; i < n; i++)
+            System.out.println(x[i]);
+
         // copy a sequence of values to other array
         double[] b = new double[n];
         for (int i = 0; i < n; i++)
