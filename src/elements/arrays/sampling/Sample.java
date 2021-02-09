@@ -1,5 +1,8 @@
 package elements.arrays.sampling;
 
+/*
+ * Sample without replacement
+ */
 public class Sample {
     public static void main(String [] args) {
         // assert params reception
