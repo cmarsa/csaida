@@ -1,4 +1,4 @@
-package elements.arrays.randomwalk;
+package elements.arrays.excercises;
 
 /**
  * Write a code fragment that reverses the order of the values in a one-

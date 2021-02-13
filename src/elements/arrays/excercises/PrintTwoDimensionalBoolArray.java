@@ -1,4 +1,4 @@
-package elements.arrays.randomwalk;
+package elements.arrays.excercises;
 
 public class PrintTwoDimensionalBoolArray {
     public static void main(String[] args) {
