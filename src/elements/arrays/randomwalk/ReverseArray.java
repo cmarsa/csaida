@@ -25,8 +25,8 @@ public class ReverseArray {
         // reverse string
         char temp;
         for (int i = 0; i < n/2; i++) {
-            temp = stringToReverse[n - 1 - i];
-            stringToReverse[n - 1 - i] = stringToReverse[i];
+            temp = stringToReverse[(n-1) - i];
+            stringToReverse[(n-1) - i] = stringToReverse[i];
             stringToReverse[i] = temp;
         }
         System.out.println();
